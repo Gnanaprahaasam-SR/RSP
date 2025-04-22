@@ -2,7 +2,7 @@
   "name": "rsp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Gnanaprahaasam-SR.github.io/RSP/",
+  "homepage": "https://gnanaprahaasam-sr.github.io/RSP",
   "type": "module",
   "scripts": {
     "dev": "vite",
